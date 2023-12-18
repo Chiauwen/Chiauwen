@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
 </div>
 
+<div>
+  <a href="https://www.linkedin.com/in/chiauwen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+</div>
+
 <!--
 **Chiauwen/Chiauwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
