@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Chiauwen/Chiauwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
